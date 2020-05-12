@@ -6629,4 +6629,8 @@ h6 {
     font-weight: 900;
     color: #018ADA
 }
+
+.ti-linkedin:before {
+    content: "\e735" !important;
+}
 /*# sourceMappingURL=../css/style.map */
